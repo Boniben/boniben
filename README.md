@@ -9,11 +9,12 @@
 - 🤯 SQL
 - 🤯 VBA
 
-  
+### PROJECT
+
 - 🔭 My projet is to create some data bases and programs to help disable people.
   More precisely, create some learning programs to give them the possibility to include themself in our society.
 
 
  I hope to be operational in 2026 after my advanced technician's certificate SIO.
 
- ✌️✌️
+✌️ Have a good day ✌️
